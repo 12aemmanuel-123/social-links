@@ -1,0 +1,41 @@
+/* for mobile */
+@media (max-width: 375px) {
+}
+
+/* for desktop */
+@media (max-width: 1440px) {
+}
+
+/*  */
+@media (max-width: 320px) {
+  .container {
+    margin: 30px;
+  }
+}
+
+@media (max-width: 600px) {
+}
+
+@media (max-width: 392px) {
+}
+
+@media (max-width: 400px) {
+}
+
+@media (max-width: 768px) {
+}
+
+@media (max-width: 800px) {
+}
+
+@media (max-width: 700px) {
+}
+
+@media (max-width: 360px) {
+}
+
+@media (max-width: 375px) {
+}
+
+@media (max-width: 1240px) {
+}
